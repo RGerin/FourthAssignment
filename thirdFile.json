@@ -1,0 +1,19 @@
+{
+    "someCandies": [
+        {
+            "type": "Hershey'sKisses"
+        },
+        {
+            "type": "peanutButterCups"
+        },
+        {
+            "type": "Twizzlers"
+        },
+        {
+            "type": "gumdrops"
+        },
+        {
+            "type": "caramelSquares"
+        }
+    ]
+}
